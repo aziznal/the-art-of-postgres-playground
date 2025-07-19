@@ -24,6 +24,14 @@ postgresql://postgres:pass@localhost:5432/postgres
 
 Command to load a dataset:
 
-```
+```bash
 pgloader Chinook_Sqlite_AutoIncrementPKs.sqlite postgresql://postgres:pass@localhost:5432/postgres
+```
+
+## Commands
+
+Download chinook dataset:
+
+```bash
+curl -L -O https://github.com/lerocha/chinook-database/raw/master/ChinookDatabase/DataSources/Chinook_Sqlite_AutoIncrementPKs.sqlite
 ```
