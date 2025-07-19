@@ -1,10 +1,8 @@
 # The art of postgres - my playground
 
-This is a bunch of stuff I tried while reading the art of postgres. To make
-sense of this, you must have the extras provided when you purchase the book.
+This is a bunch of stuff I tried while reading the art of postgres.
 
-If you are me in the future, check your email for the course details. If you're
-someone else, [buy the book here](https://theartofpostgresql.com/).
+[Buy the book here](https://theartofpostgresql.com/). It's worth it.
 
 ## Docker command
 

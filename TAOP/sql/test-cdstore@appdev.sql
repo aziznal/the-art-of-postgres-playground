@@ -1,0 +1,29 @@
+\c postgres://cdstore@/appdev
+
+\ir 03-writing-sql-queries/05-business-logic/01_01.sql
+\ir 03-writing-sql-queries/05-business-logic/01_02.sql
+\ir 03-writing-sql-queries/05-business-logic/01_03.sql
+\ir 03-writing-sql-queries/05-business-logic/02_01.sql
+\ir 03-writing-sql-queries/05-business-logic/05_01_album.pl.name.sql
+\ir 03-writing-sql-queries/05-business-logic/05_02_album.pl.id.sql
+\ir 03-writing-sql-queries/05-business-logic/05_03.sql
+\ir 03-writing-sql-queries/05-business-logic/05_04.sql
+\ir 03-writing-sql-queries/05-business-logic/05_05.sql
+\ir 03-writing-sql-queries/05-business-logic/05_06.sql
+\ir 03-writing-sql-queries/05-business-logic/06_01_album.pl.proc.sql
+\ir 03-writing-sql-queries/06-application-use-case/03_01.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_01.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_02.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_03.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_05.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_06.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_07.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_08.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_09.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_10.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_11.sql
+\ir 03-writing-sql-queries/08-sql-is-code/01_12.sql
+\ir 03-writing-sql-queries/08-sql-is-code/02_01.sql
+\ir 03-writing-sql-queries/08-sql-is-code/03_01.sql
+\ir 03-writing-sql-queries/08-sql-is-code/03_02.sql
+
